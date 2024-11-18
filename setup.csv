@@ -1,0 +1,5 @@
+﻿asset,symbol,interval,quantity,profit_target_percent,increment_percent,stop_loss_percent,stop_limit_offset_percent
+OM,OMUSDT,5m,50,0.1,0.005,0.02,0.01
+,,,,,,,
+,,,,,,,
+,,,,,,,
